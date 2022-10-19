@@ -1,0 +1,13 @@
+{
+  "folders": [
+	{
+		"path": "../JavaScripts"
+	},
+	{
+		"path": "."
+	}
+],
+  "settings": {
+    "liveServer.settings.multiRootWorkspaceName": "time-javascrip"
+  }
+}
